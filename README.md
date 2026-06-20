@@ -31,10 +31,13 @@ I am a Computer Science PhD candidate at the University of Dayton graduating in 
 
 ## 🏢 Industry Experience
 
-![Walmart](https://img.shields.io/badge/Walmart-Machine%20Learning%20Intern-0071CE?style=for-the-badge&logo=walmart&logoColor=white)
+<p align="center">
 
-![Padagis](https://img.shields.io/badge/Padagis-Data%20Science%20Intern-0A66C2?style=for-the-badge)
+<img src="https://img.shields.io/badge/Walmart-Machine%20Learning%20Intern-0071CE?style=for-the-badge&logo=walmart&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Padagis-Data%20Science%20Intern-0A66C2?style=for-the-badge" />
+
+</p>
 ### University of Dayton — Graduate Research Assistant
 **Aug 2023 – Present**
 
