@@ -1,243 +1,214 @@
-<h1 align="center">Shruti Singh</h1>
+# Shruti Singh
 
-<h3 align="center">
-CS PhD Candidate · Machine Learning Researcher · AI Engineer · Data Scientist
-</h3>
+### CS PhD Candidate · ML / AI Researcher · Data Scientist
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](ADD_WEBSITE_LINK_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shruti--singh97-blue)](https://www.linkedin.com/in/shruti-singh97/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-blue)](ADD_SCHOLAR_LINK_HERE)
+[![Publications](https://img.shields.io/badge/Publications-Research-blue)](ADD_SCHOLAR_LINK_HERE)
+[![Email](https://img.shields.io/badge/Email-shruti.singh97.phd@gmail.com-red)](mailto:shruti.singh97.phd@gmail.com)
+
+---
+
+I build reproducible machine-learning systems for reinforcement learning, large language models, computer vision, vision-language systems, and applied data science.
+
+I am a Computer Science PhD candidate at the University of Dayton graduating in **May 2027**, with research experience spanning **Safe Reinforcement Learning, Vision-Language Models, AI Safety, Human-AI Systems**, and industry experience at **Walmart** and **Padagis LLC**.
+
+🌐 **Personal Website:** ADD_WEBSITE_LINK_HERE
+
+---
+
+# 🔬 Current Focus
+
+- 🧠 LLM-guided Safe Reinforcement Learning
+- 🤖 Adversarial robustness in RL environments
+- 👁️ Vision-Language Models for construction safety
+- 🏗️ AI systems for construction safety analysis
+- 📊 Applied data science and statistical modeling
+- 🔍 Human-AI collaboration and explainability
+
+---
+
+# 💼 Experience
+
+### University of Dayton — Graduate Research Assistant
+**Aug 2023 – Present**
+
+- Lead researcher on LLM-guided Safe RL systems using DDQN + Llama 3.2
+- Developed entropy-driven adversarial defense frameworks for RL
+- Built SiteCortex, a modular Vision-Language system for construction safety analysis
+- Conducted systematic review of 165 AI-in-construction-safety studies
+- Built facial recognition attendance system achieving 99.39% accuracy
+
+### Padagis LLC — Data Science Intern
+**Jun 2026 – Present**
+
+- Conducting exploratory data analysis on business and operational datasets
+- Performing statistical analysis and reporting
+- Building analytics workflows and data-driven dashboards
+- Supporting data-informed decision making across teams
+
+### Walmart — Machine Learning Intern
+**Jun 2022 – Aug 2022**
+
+- Developed GS1 barcode validation and processing pipelines
+- Built large-scale SQL and Python workflows
+- Analyzed 100+ production test cases
+- Achieved 100% validation accuracy against legacy systems
+- Supported Automation & Innovation initiatives
+
+---
+
+# 🧰 Tooling & Research Systems
+
+- Safe RL Benchmark Suite
+- LLM-Guided Decision Systems
+- SiteCortex Vision-Language Platform
+- Adversarial RL Evaluation Framework
+- Facial Recognition Attendance Platform
+- Recommendation Systems Research
+- Experiment Reproducibility Pipelines
+- Human-in-the-Loop AI Systems
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="YOUR_WEBSITE">Portfolio</a> •
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="YOUR_GOOGLE_SCHOLAR">Google Scholar</a> •
-  <a href="mailto:shruti.singh97.phd@gmail.com">Email</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 🚀 Selected Projects
 
-I build reproducible machine-learning systems spanning:
+## ML and AI
 
-- Reinforcement Learning
-- LLM-Guided Decision Systems
-- Vision-Language Models
-- AI Safety
-- Construction Safety Intelligence
-- Data Science & Analytics
+### LLM-Guided Safe Reinforcement Learning
+Public research framework where a Large Language Model provides natural-language safety guidance to reinforcement learning agents.
 
-Currently pursuing a **PhD in Computer Science** at the **University of Dayton** with research focused on Safe Reinforcement Learning, Machine Learning, and Human-AI Systems.
-
----
-
-## 🧠 Current Focus
-
-- LLM-Guided Safe Reinforcement Learning
-- Vision-Language Models (VLMs)
-- Construction Safety AI
-- Adversarial Machine Learning
-- Human-AI Collaboration
-- Explainable AI
-
----
-
-## 💼 Experience
-
-### 🔬 Graduate Research Assistant
-**University of Dayton**
-*Aug 2023 – Present*
-
-- Lead researcher on LLM-guided Safe Reinforcement Learning systems.
-- Developed DDQN + Llama 3.2 hybrid framework for safety-aware decision making.
-- Built SiteCortex, a modular Vision-Language system for construction safety analysis.
-- Developed entropy-driven adversarial defense frameworks for reinforcement learning.
-- Conducted a systematic review of 165 AI-in-construction safety studies.
-- Built and deployed a facial recognition attendance platform with 99.39% accuracy.
-
----
-
-### 📊 Data Science Intern
-**Padagis LLC**
-*Jun 2026 – Present*
-
-- Conducting exploratory data analysis on pharmaceutical and business datasets.
-- Performing statistical analysis to identify trends, anomalies, and actionable insights.
-- Building data-driven reports and visualizations for decision support.
-- Collaborating with cross-functional teams to improve analytics workflows.
-
----
-
-### 🤖 Machine Learning Intern
-**Walmart – Automation & Innovation Team**
-*Jun 2022 – Aug 2022*
-
-- Developed GS1 barcode validation and processing pipelines.
-- Automated large-scale data workflows using Python and SQL.
-- Analyzed 100+ real-world production test cases using BigQuery.
-- Delivered 100% validation accuracy against legacy systems.
-- Supported distribution center automation initiatives.
-
----
-
-## 🚀 Selected Projects
-
-### 🛡️ LLM-Guided Safe Reinforcement Learning
-
-Developed a DDQN + Llama 3.2 hybrid framework where an LLM provides natural-language safety guidance to reinforcement learning agents.
-
-**Highlights**
+- DDQN + Llama 3.2 architecture
 - 56 benchmark experiments
-- Multiple LLM families evaluated
-- LunarLander-v2
-- CarRacing-v2
+- Multi-model evaluation through Ollama
+- LunarLander-v2 and CarRacing-v2
 - JAIR paper in preparation
 
----
+### SiteCortex: Construction Safety Vision-Language System
+Glass-box Vision-Language framework for automated construction safety analysis.
 
-### 🏗️ SiteCortex: Construction Safety Vision-Language System
-
-Modular VLM architecture combining:
-
-- BLIP-2
-- Gemma
-- GroundingDINO
-
-**Achievements**
-- 65.3% spatial grounding coverage
+- BLIP-2 captioning
+- Gemma reasoning
+- GroundingDINO spatial localization
 - 203-image benchmark dataset
-- EAAI journal submission
+- 65.3% spatial grounding coverage
 
----
+### Adversarial Resilience in RL Systems
+Entropy-driven feature selection framework for robust reinforcement learning.
 
-### ⚔️ Adversarial Resilience in Reinforcement Learning
-
-Entropy-driven feature selection framework for adversarial attack mitigation in RL environments.
-
-**Results**
-- 94% accuracy on LunarLander
-- 95% accuracy on BipedalWalker
+- 94% LunarLander accuracy
+- 95% BipedalWalker accuracy
 - Published at KSE 2024
+- Outperformed KL Divergence and Joint Entropy baselines
 
----
+### Personalized Movie Recommender System
+Collaborative filtering recommendation engine built using MovieLens.
 
-### 🎬 Personalized Movie Recommender System
-
-Recommendation engine built on MovieLens 1M.
-
-**Stack**
-- Python
-- KNN
-- SVD
-- Streamlit
-
-**Performance**
+- KNN + SVD
+- Streamlit deployment
 - RMSE ≈ 0.87
 - Precision@10 = 0.81
 
----
-
-### 👁️ Facial Recognition Attendance System
-
-Real-time attendance monitoring platform built with:
+### Facial Recognition Attendance System
+Real-time attendance and monitoring platform.
 
 - Python
 - OpenCV
 - dlib
-
-**Performance**
 - 99.39% accuracy
 
 ---
 
-## 📚 Publications
+# 📚 Publications
 
-### KSE 2024
-**Imposter Injection: Learning to Select Features in Reinforcement Learning**
+### Imposter Injection: Learning to Select Features in Reinforcement Learning
+**KSE 2024**
 
----
+Entropy-driven feature selection approach for adversarial robustness in reinforcement learning environments.
 
-### ASME JESBC 2025
-**Enhancing Sustainability and Construction Safety Research in the Era of Artificial Intelligence**
+### Enhancing Sustainability and Construction Safety Research in the Era of Artificial Intelligence
+**ASME JESBC 2025**
 
----
+Systematic review of AI technologies and their impact on construction safety research.
 
-### JAIR (In Preparation)
-**LLM-Guided Safe Reinforcement Learning**
+### LLM-Guided Safe Reinforcement Learning
+**In Preparation (JAIR Target)**
 
----
-
-## 🧰 Research & Tooling
-
-- Reinforcement Learning Benchmarks
-- Safe RL Frameworks
-- Vision-Language Systems
-- Construction Safety Intelligence
-- Adversarial ML Evaluation
-- Multi-Agent AI Systems
-- Human-in-the-Loop AI
-- Experiment Reproducibility Pipelines
+Investigation of natural-language safety guidance for reinforcement learning agents.
 
 ---
 
-## ⚙️ Technical Skills
+# ⚙️ Technical Skills
 
 ### Languages
-Python • R • SQL • NoSQL
+Python · R · SQL · NoSQL
 
 ### Machine Learning
-PyTorch • TensorFlow • Scikit-Learn • Hugging Face
+PyTorch · TensorFlow · Scikit-Learn · Hugging Face
+
+### LLMs & GenAI
+Llama 3.2 · Ollama · Prompt Engineering · Model Evaluation · Fine-Tuning
 
 ### Reinforcement Learning
-OpenAI Gym • DDQN • Safe RL • Adversarial RL
-
-### LLM & Generative AI
-Llama 3.2 • Ollama • Prompt Engineering • Fine-Tuning • Evaluation
+DDQN · OpenAI Gym · LunarLander · BipedalWalker · CarRacing-v2
 
 ### Vision AI
-BLIP-2 • GroundingDINO • OpenCV
+BLIP-2 · GroundingDINO · OpenCV
 
 ### Data Science
-Pandas • NumPy • Matplotlib • Statistical Analysis
+Pandas · NumPy · Matplotlib · Statistical Analysis
 
 ### Data Engineering
-BigQuery • Azure Cosmos DB • ETL Pipelines
+BigQuery · Azure Cosmos DB · ETL Pipelines
 
 ### Agentic AI
-OpenClaw • Tool-Use Pipelines • Human-in-the-Loop Systems
+OpenClaw · Tool-Use Pipelines · Human-in-the-Loop Systems
 
 ---
 
-## 🏆 Research Interests
+# 🎓 Education
 
-- Safe Artificial Intelligence
-- Reinforcement Learning
-- Human-Centered AI
-- Large Language Models
-- Vision-Language Models
-- AI for Healthcare
-- AI for Construction Safety
-- Explainable AI
+### University of Dayton
 
----
+**PhD in Computer Science**  
+Aug 2023 – May 2027 (Expected)
 
-## 📈 GitHub Stats
+Focus:
+- Safe Reinforcement Learning
+- Machine Learning
+- Human-AI Systems
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+**MS in Computer Science**  
+Graduated with 4.00 GPA
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect
 
-- Email: shruti.singh97.phd@gmail.com
-- LinkedIn: YOUR_LINKEDIN
-- Google Scholar: YOUR_SCHOLAR
-- GitHub: YOUR_GITHUB
-- Website: YOUR_WEBSITE
+📧 shruti.singh97.phd@gmail.com
+
+💼 LinkedIn  
+https://www.linkedin.com/in/shruti-singh97/
+
+🎓 Google Scholar  
+ADD_SCHOLAR_LINK_HERE
+
+🌐 Website  
+ADD_WEBSITE_LINK_HERE
