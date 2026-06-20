@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://www.shrutisinghphd.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shruti--singh97-blue)](https://www.linkedin.com/in/shruti-singh97/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-blue)](https://scholar.google.com/citations?user=t2OTFtkAAAAJ&hl=en)
-[![Profile Views](https://komarev.com/ghpvc/?username=shrutisingh97&label=Profile+Views&color=blue&style=flat)](https://github.com/shrutisingh97)
+[![Profile Views](https://komarev.com/ghpvc/?username=shruti976&label=Profile+Views&color=blue&style=flat)](https://github.com/shrutisingh97)
 [![Email](https://img.shields.io/badge/Email-shruti.singh97.phd@gmail.com-red)](mailto:shruti.singh97.phd@gmail.com)
 
 ---
@@ -29,7 +29,11 @@ I am a Computer Science PhD candidate at the University of Dayton graduating in 
 
 ---
 
-# 💼 Experience
+## 🏢 Industry Experience
+
+![Walmart](https://img.shields.io/badge/Walmart-Machine%20Learning%20Intern-0071CE?style=for-the-badge&logo=walmart&logoColor=white)
+
+![Padagis](https://img.shields.io/badge/Padagis-Data%20Science%20Intern-0A66C2?style=for-the-badge)
 
 ### University of Dayton — Graduate Research Assistant
 **Aug 2023 – Present**
@@ -75,15 +79,13 @@ I am a Computer Science PhD candidate at the University of Dayton graduating in 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shruti976&show_icons=true&theme=transparent&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti976&layout=compact&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+  <img src="https://streak-stats.demolab.com?user=shruti976&theme=transparent" />
 </p>
 
 ---
