@@ -2,10 +2,10 @@
 
 ### CS PhD Candidate · ML / AI Researcher · Data Scientist
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](ADD_WEBSITE_LINK_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://www.shrutisinghphd.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shruti--singh97-blue)](https://www.linkedin.com/in/shruti-singh97/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-blue)](ADD_SCHOLAR_LINK_HERE)
-[![Publications](https://img.shields.io/badge/Publications-Research-blue)](ADD_SCHOLAR_LINK_HERE)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-blue)](https://scholar.google.com/citations?user=t2OTFtkAAAAJ&hl=en)
+[![Profile Views](https://komarev.com/ghpvc/?username=shrutisingh97&label=Profile+Views&color=blue&style=flat)](https://github.com/shrutisingh97)
 [![Email](https://img.shields.io/badge/Email-shruti.singh97.phd@gmail.com-red)](mailto:shruti.singh97.phd@gmail.com)
 
 ---
