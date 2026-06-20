@@ -31,12 +31,6 @@ I am a Computer Science PhD candidate at the University of Dayton graduating in 
 
 ## 🏢 Industry Experience
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/512px-Walmart_logo.svg.png" height="60">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.padagis.com/wp-content/uploads/2023/05/Padagis-Logo.png" height="60">
-</p>
-
 ### University of Dayton — Graduate Research Assistant
 
 **Aug 2023 – Present**
