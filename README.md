@@ -14,7 +14,7 @@ I build reproducible machine-learning systems for reinforcement learning, large 
 
 I am a Computer Science PhD candidate at the University of Dayton graduating in **May 2027**, with research experience spanning **Safe Reinforcement Learning, Vision-Language Models, AI Safety, Human-AI Systems**, and industry experience at **Walmart** and **Padagis LLC**.
 
-🌐 **Personal Website:** ADD_WEBSITE_LINK_HERE
+🌐 **Personal Website:** https://www.shrutisinghphd.com/
 
 ---
 
