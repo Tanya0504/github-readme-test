@@ -80,8 +80,8 @@ I am a Computer Science PhD candidate at the University of Dayton graduating in 
 
 <p align="center">
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shruti976&show_icons=true&theme=transparent&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti976&layout=compact&theme=transparent" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shruti976&show_icons=true&theme=transparent&rank_icon=github" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti976&layout=compact&theme=transparent" />
 </p>
 
 <p align="center">
