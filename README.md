@@ -32,13 +32,12 @@ I am a Computer Science PhD candidate at the University of Dayton graduating in 
 ## 🏢 Industry Experience
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Walmart-Machine%20Learning%20Intern-0071CE?style=for-the-badge&logo=walmart&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Padagis-Data%20Science%20Intern-0A66C2?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/Walmart-Machine%20Learning%20Intern-0071CE?style=for-the-badge&logo=walmart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Padagis-Data%20Science%20Intern-0A66C2?style=for-the-badge" />
 </p>
+
 ### University of Dayton — Graduate Research Assistant
+
 **Aug 2023 – Present**
 
 - Lead researcher on LLM-guided Safe RL systems using DDQN + Llama 3.2
@@ -46,7 +45,7 @@ I am a Computer Science PhD candidate at the University of Dayton graduating in 
 - Built SiteCortex, a modular Vision-Language system for construction safety analysis
 - Conducted systematic review of 165 AI-in-construction-safety studies
 - Built facial recognition attendance system achieving 99.39% accuracy
-
+  
 ### Padagis LLC — Data Science Intern
 **Jun 2026 – Present**
 
