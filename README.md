@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://www.shrutisinghphd.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shruti--singh97-blue)](https://www.linkedin.com/in/shruti-singh97/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-blue)](https://scholar.google.com/citations?user=t2OTFtkAAAAJ&hl=en)
-[![Profile Views](https://komarev.com/ghpvc/?username=shruti976&label=Profile+Views&color=blue&style=flat)](https://github.com/shrutisingh97)
+[![Profile Views](https://komarev.com/ghpvc/?username=shruti976&label=Profile+Views&color=blue&style=flat)](https://github.com/shruti976)
 [![Email](https://img.shields.io/badge/Email-shruti.singh97.phd@gmail.com-red)](mailto:shruti.singh97.phd@gmail.com)
 
 ---
