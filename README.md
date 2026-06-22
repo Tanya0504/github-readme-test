@@ -118,34 +118,34 @@ Real-time attendance and monitoring platform.
 # 📚 Publications
 
 ### Imposter Injection: Learning to Select Features in Reinforcement Learning
-[Access here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=t2OTFtkAAAAJ&citation_for_view=t2OTFtkAAAAJ:UeHWp8X0CEIC)
+[Access here](10.1109/KSE63888.2024.11063527)
 **KSE 2024** 
 
 Entropy-driven feature selection approach for adversarial robustness in reinforcement learning environments.
 
 ### Enhancing Sustainability and Construction Safety Research in the Era of Artificial Intelligence 
-[Access here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=t2OTFtkAAAAJ&citation_for_view=t2OTFtkAAAAJ:WF5omc3nYNoC)
+[Access here](10.1115/1.4071098)
 **ASME JESBC 2025**
 
 Systematic review of AI technologies and their impact on construction safety research.
 
 ### Predicting an Optimal Medication/Prescription Regimen for Patient Discordant Chronic Comorbidities Using Multi-Output Models
-[Access here](DOI_LINK_HERE)
+[Access here](10.3390/info15010031)
 
 Multi-output modeling approach for personalized medication recommendations in patients with comorbidities.
 
 ### Multi-Output Career Prediction: Dataset, Method, and Benchmark Suite
-[Access here](DOI_LINK_HERE)
+[Access here](10.1109/CISS56502.2023.10089642)
 
 Benchmark suite and multi-output methods for career trajectory prediction.
 
 ### Mouse Brain Cell Segmentation in Fluorescence Microscopy Images
-[Access here](DOI_LINK_HERE)
+[Access here](10.1109/CISS64860.2025.10944731)
 
 Segmentation of brain cells in fluorescence microscopy using deep learning methods.
 
 ### Virtual Yoga Instructor with Real-Time Feedback
-[Access here](DOI_LINK_HERE)
+[Access here](10.1109/CISS64860.2025.10944737)
 
 Real-time pose estimation and feedback system for guided virtual yoga instruction.
 
