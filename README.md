@@ -29,36 +29,6 @@ I am a Computer Science PhD candidate at the University of Dayton graduating in 
 
 ---
 
-## 🏢 Industry Experience
-
-### University of Dayton — Graduate Research Assistant
-
-**Aug 2023 – Present**
-
-- Lead researcher on LLM-guided Safe RL systems using DDQN + Llama 3.2
-- Developed entropy-driven adversarial defense frameworks for RL
-- Built SiteCortex, a modular Vision-Language system for construction safety analysis
-- Conducted systematic review of 165 AI-in-construction-safety studies
-- Built facial recognition attendance system achieving 99.39% accuracy
-  
-### Padagis LLC — Data Science Intern
-**Jun 2026 – Present**
-
-- Conducting exploratory data analysis on business and operational datasets
-- Performing statistical analysis and reporting
-- Building analytics workflows and data-driven dashboards
-- Supporting data-informed decision making across teams
-
-### Walmart — Machine Learning Intern
-**Jun 2022 – Aug 2022**
-
-- Developed GS1 barcode validation and processing pipelines
-- Built large-scale SQL and Python workflows
-- Analyzed 100+ production test cases
-- Achieved 100% validation accuracy against legacy systems
-- Supported Automation & Innovation initiatives
-
----
 
 # 🧰 Tooling & Research Systems
 
@@ -100,6 +70,8 @@ Public research framework where a Large Language Model provides natural-language
 - LunarLander-v2 and CarRacing-v2
 - JAIR paper in preparation
 
+🔗 **Repository:** _Coming soon — project will be uploaded_ <!-- TODO: replace with repo URL, e.g. https://github.com/Tanya0504/llm-guided-safe-rl -->
+
 ### SiteCortex: Construction Safety Vision-Language System
 Glass-box Vision-Language framework for automated construction safety analysis.
 
@@ -109,6 +81,8 @@ Glass-box Vision-Language framework for automated construction safety analysis.
 - 203-image benchmark dataset
 - 65.3% spatial grounding coverage
 
+🔗 **Repository:** _Coming soon — project will be uploaded_ <!-- TODO: replace with repo URL, e.g. https://github.com/Tanya0504/sitecortex -->
+
 ### Adversarial Resilience in RL Systems
 Entropy-driven feature selection framework for robust reinforcement learning.
 
@@ -116,6 +90,8 @@ Entropy-driven feature selection framework for robust reinforcement learning.
 - 95% BipedalWalker accuracy
 - Published at KSE 2024
 - Outperformed KL Divergence and Joint Entropy baselines
+
+🔗 **Repository:** _Coming soon — project will be uploaded_ <!-- TODO: replace with repo URL, e.g. https://github.com/Tanya0504/adversarial-rl-resilience -->
 
 ### Personalized Movie Recommender System
 Collaborative filtering recommendation engine built using MovieLens.
@@ -125,6 +101,8 @@ Collaborative filtering recommendation engine built using MovieLens.
 - RMSE ≈ 0.87
 - Precision@10 = 0.81
 
+🔗 **Repository:** _Coming soon — project will be uploaded_ <!-- TODO: replace with repo URL, e.g. https://github.com/Tanya0504/movie-recommender -->
+
 ### Facial Recognition Attendance System
 Real-time attendance and monitoring platform.
 
@@ -132,6 +110,8 @@ Real-time attendance and monitoring platform.
 - OpenCV
 - dlib
 - 99.39% accuracy
+
+🔗 **Repository:** _Coming soon — project will be uploaded_ <!-- TODO: replace with repo URL, e.g. https://github.com/Tanya0504/facial-recognition-attendance -->
 
 ---
 
@@ -207,7 +187,7 @@ Graduated with 4.00 GPA
 https://www.linkedin.com/in/shruti-singh97/
 
 🎓 Google Scholar  
-ADD_SCHOLAR_LINK_HERE
+<https://scholar.google.com/citations?user=t2OTFtkAAAAJ&hl=en>
 
 🌐 Website  
-ADD_WEBSITE_LINK_HERE
+<https://www.shrutisinghphd.com/>
