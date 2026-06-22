@@ -131,21 +131,25 @@ Systematic review of AI technologies and their impact on construction safety res
 
 ### Predicting an Optimal Medication/Prescription Regimen for Patient Discordant Chronic Comorbidities Using Multi-Output Models
 [Access here](10.3390/info15010031)
+**Information, 2024**
 
 Multi-output modeling approach for personalized medication recommendations in patients with comorbidities.
 
 ### Multi-Output Career Prediction: Dataset, Method, and Benchmark Suite
 [Access here](10.1109/CISS56502.2023.10089642)
+**CISS 2023**
 
 Benchmark suite and multi-output methods for career trajectory prediction.
 
 ### Mouse Brain Cell Segmentation in Fluorescence Microscopy Images
 [Access here](10.1109/CISS64860.2025.10944731)
+**CISS 2025**
 
 Segmentation of brain cells in fluorescence microscopy using deep learning methods.
 
 ### Virtual Yoga Instructor with Real-Time Feedback
 [Access here](10.1109/CISS64860.2025.10944737)
+**CISS 2025**
 
 Real-time pose estimation and feedback system for guided virtual yoga instruction.
 
